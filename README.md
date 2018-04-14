@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Clement Cherlin, Entry-level Computer Programmer
 
-You can use the [editor on GitHub](https://github.com/Mooninaut/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a graduate of WGU Indiana with a Bachelor of Science in Software Development. My coursework focused on Java development. I created a mobile application for Android phones and tablets, using SQLite for persistence. I also created two desktop applications using JavaFX for the user interface, and MySQL for persistence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mobile Application: Student Assistant
 
-### Markdown
+Student Assistant is an Android application for a student to schedule their terms, courses, and assessments (tests). It allows the student to attach notes to their courses and assessments with optional photos, add assessment times to their calendars, and share notes and photos with others.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Desktop Application: Appointment Scheduler
 
-```markdown
-Syntax highlighted code block
+### Desktop Application: Inventory Manager
 
-# Header 1
-## Header 2
-### Header 3
+Inventory Manager demonstrates data storage with MySQL; maintaining referential integrity by warning the user when they attempt to delete a part that belongs to existing products; UI input validation; and a multiple-window interface.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mooninaut/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Main Window](image/Inventory-main-window.png)
+![Add Part](image/Inventory-add-part.png)
+![Modify Product](image/Inventory-modify-product.png)
+![Main Window with Error Message](image/Inventory-main-window-with-message.png)
