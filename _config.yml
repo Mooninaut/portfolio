@@ -1,1 +1,10 @@
 theme: jekyll-theme-leap-day
+title: Clement Cherlin's Programming Portfolio
+author: Clement Cherlin
+#description: Clement Cherlin's professional portfolio. Clement is a recent WGU Indiana graduate, with a B.S. in Software Development. He lives in, and is looking for an entry-level Java programming position in the Indianapolis, Indiana area.
+description: Seeking entry-level Java software development opportunities in the Indianapolis, Indiana area.
+github:
+  repository_url: https://github.com/Mooninaut
+social:
+  links:
+    - https://www.linkedin.com/in/clementcherlin/

@@ -12,11 +12,7 @@ Appointment Manager allows the user to manage the schedules of multiple salespeo
 
 #### Appointment Manager Screenshots
 
-![Customer Screen](image/Appointment-manager-customer-screen.png)
-![Calendar Screen](image/Appointment-manager-calendar.png)
-![French Localization](image/Appointment-manager-french-localization.png)
-![Report by Consultant](image/Appointment-manager-report-by-consultant.png)
-![Report by Customer](image/Appointment-manager-report-by-customer.png)
+[![Customer Screen](image/thumbnail/Appointment-manager-customer-screen.png)][amcu]Customer Screen [![Calendar Screen](image/thumbnail/Appointment-manager-calendar.png)][amca] [![French Localization](image/thumbnail/Appointment-manager-french-localization.png)][amcf] [![Report by Consultant](image/thumbnail/Appointment-manager-report-by-consultant.png)][amrco] [![Report by Customer](image/thumbnail/Appointment-manager-report-by-customer.png)][amrcu]
 
 ### Desktop Application: Inventory Manager
 
@@ -24,7 +20,27 @@ Inventory Manager demonstrates data storage with MySQL; maintaining referential 
 
 #### Inventory Manager Screenshots
 
-![Main Window](image/Inventory-main-window.png)
-![Add Part](image/Inventory-add-part.png)
-![Modify Product](image/Inventory-modify-product.png)
-![Main Window with Error Message](image/Inventory-main-window-with-message.png)
+<figure>
+    <a href="image/Inventory-main-window.png"><figcaption>Main window</figcaption>
+    <img src="image/thumbnail/Inventory-main-window.png"></a>
+</figure>
+<figure>
+    <a href="image/Inventory-main-window-with-message.png"><figcaption>Main window with warning message</figcaption>
+    <img src="image/thumbnail/Inventory-main-window-with-message.png"></a>
+</figure>
+<figure>
+    <a href="image/Inventory-add-part.png"><figcaption>Add Part window</figcaption>
+    <img src="image/thumbnail/Inventory-add-part.png"></a>
+</figure>
+<figure>
+    <a href="image/Inventory-modify-product.png"><figcaption>Modify Product window</figcaption>
+    <img src="image/thumbnail/Inventory-modify-product.png"></a>
+</figure>
+
+.
+
+[amcu]: image/Appointment-manager-customer-screen.png
+[amca]: image/Appointment-manager-calendar.png
+[amcf]: image/Appointment-manager-french-localization.png
+[amrco]: image/Appointment-manager-report-by-consultant.png
+[amrcu]: image/Appointment-manager-report-by-customer.png

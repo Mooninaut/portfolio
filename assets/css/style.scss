@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* #banner .fork {visibility:hidden;} */
+figure {
+    float:left;
+    margin-right: 2em;
+}
+figcaption {
+    text-align: center;
+}
+/* Clearfix hack from https://www.w3schools.com/howto/howto_css_clearfix.asp */
+section::after {
+    content: "";
+    clear: both;
+    display: table;
+}
