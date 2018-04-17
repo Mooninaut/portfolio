@@ -12,35 +12,51 @@ Appointment Manager allows the user to manage the schedules of multiple salespeo
 
 #### Appointment Manager Screenshots
 
-[![Customer Screen](image/thumbnail/Appointment-manager-customer-screen.png)][amcu]Customer Screen [![Calendar Screen](image/thumbnail/Appointment-manager-calendar.png)][amca] [![French Localization](image/thumbnail/Appointment-manager-french-localization.png)][amcf] [![Report by Consultant](image/thumbnail/Appointment-manager-report-by-consultant.png)][amrco] [![Report by Customer](image/thumbnail/Appointment-manager-report-by-customer.png)][amrcu]
+<div class="gallery">
+<figure class="gallery-item">
+    <a href="image/Appointment-manager-customer-screen.png"><figcaption>Customer tab</figcaption>
+    <img src="image/thumbnail/Appointment-manager-customer-screen.png"></a>
+</figure>
+<figure class="gallery-item">
+    <a href="image/Appointment-manager-calendar.png"><figcaption>Calendar tab</figcaption>
+    <img src="image/thumbnail/Appointment-manager-calendar.png"></a>
+</figure>
+<figure class="gallery-item">
+    <a href="image/Appointment-manager-french-localization.png"><figcaption>French localization of calendar tab</figcaption>
+    <img src="image/thumbnail/Appointment-manager-french-localization.png"></a>
+</figure>
+<div class="gallery-item">
+<figure>
+    <a href="image/Appointment-manager-report-by-consultant.png"><figcaption>Consultant report</figcaption>
+    <img src="image/thumbnail/Appointment-manager-report-by-consultant.png"></a>
+</figure>
+<figure>
+    <a href="image/Appointment-manager-report-by-customer.png"><figcaption>Customer report</figcaption>
+    <img src="image/thumbnail/Appointment-manager-report-by-customer.png"></a>
+</figure>
+</div>
+</div>
 
 ### Desktop Application: Inventory Manager
 
 Inventory Manager demonstrates data storage with MySQL; maintaining referential integrity by warning the user when they attempt to delete a part that belongs to existing products; UI input validation; and a multiple-window interface.
 
 #### Inventory Manager Screenshots
-
-<figure>
+<div class="gallery">
+<figure class="gallery-item">
     <a href="image/Inventory-main-window.png"><figcaption>Main window</figcaption>
     <img src="image/thumbnail/Inventory-main-window.png"></a>
 </figure>
-<figure>
+<figure class="gallery-item">
     <a href="image/Inventory-main-window-with-message.png"><figcaption>Main window with warning message</figcaption>
     <img src="image/thumbnail/Inventory-main-window-with-message.png"></a>
 </figure>
-<figure>
+<figure class="gallery-item">
     <a href="image/Inventory-add-part.png"><figcaption>Add Part window</figcaption>
     <img src="image/thumbnail/Inventory-add-part.png"></a>
 </figure>
-<figure>
+<figure class="gallery-item">
     <a href="image/Inventory-modify-product.png"><figcaption>Modify Product window</figcaption>
     <img src="image/thumbnail/Inventory-modify-product.png"></a>
 </figure>
-
-.
-
-[amcu]: image/Appointment-manager-customer-screen.png
-[amca]: image/Appointment-manager-calendar.png
-[amcf]: image/Appointment-manager-french-localization.png
-[amrco]: image/Appointment-manager-report-by-consultant.png
-[amrcu]: image/Appointment-manager-report-by-customer.png
+</div>
