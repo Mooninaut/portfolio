@@ -2,9 +2,30 @@
 
 I am a graduate of WGU Indiana with a Bachelor of Science in Software Development. My coursework focused on Java development. I created a mobile application for Android phones and tablets, using SQLite for persistence. I also created two desktop applications using JavaFX for the user interface, and MySQL for persistence.
 
-### Mobile Application: Student Assistant
+### Mobile Application: Student Planner
 
-Student Assistant is an Android application for a student to schedule their terms, courses, and assessments (tests). It allows the student to attach notes to their courses and assessments with optional photos, add assessment times to their calendars, and share notes and photos with others.
+Student Planner is an Android application for a student to schedule their terms, courses, and assessments (tests). It allows the student to attach notes to their courses and assessments with optional photos, add assessment times to their calendars, and share notes and photos with others.
+
+#### Student Planner Screenshots
+
+<div class="gallery">
+ <figure class="gallery-item">
+    <a href="image/student-planner-home.jpg"><figcaption>Home screen</figcaption>
+    <img src="image/thumbnail/student-planner-home.png"></a>
+</figure>
+<figure class="gallery-item">
+    <a href="image/student-planner-course-detail-with-mentor.jpg"><figcaption>Course detail</figcaption>
+    <img src="image/thumbnail/student-planner-course-detail-with-mentor.png"></a>
+</figure>
+<figure class="gallery-item">
+    <a href="image/student-planner-add-assessment.jpg"><figcaption>Add an assessment</figcaption>
+    <img src="image/thumbnail/student-planner-add-assessment.png"></a>
+</figure>
+<figure class="gallery-item">
+    <a href="image/student-planner-edit-note.jpg"><figcaption>Edit a note</figcaption>
+    <img src="image/thumbnail/student-planner-edit-note.png"></a>
+</figure>
+</div>
 
 ### Desktop Application: Appointment Manager
 
@@ -60,3 +81,7 @@ Inventory Manager demonstrates data storage with MySQL; maintaining referential 
     <img src="image/thumbnail/Inventory-modify-product.png"></a>
 </figure>
 </div>
+
+### World of Warcraft AddOn: Learning Aid
+
+[Learning Aid](learningaid/index.html) is a World of Warcraft AddOn I wrote in Lua.
